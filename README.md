@@ -1,26 +1,26 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# You Don't Know JS Yet (book series) - 2판
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+이 책은 자바스크립트 언어의 핵심 메커니즘에 깊이 파고드는 책입니다.
+
+이 책 시리즈의 2판은 다음과 같이 구성되어 있습니다.
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**이 시리즈의 동기와 관점에 대한 더 자세한 내용은 [Preface](preface.md)를 참조하세요.**
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+만약 이 책의 초판 버전을 찾고 계신다면, [여기서 확인하실 수 있습니다.](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
 ## Titles
 
-I recommend reading the **second edition** books in this order:
+다음과 같은 순서대로 **이 시리즈의 2판**을 읽는 것을 추천합니다.
 
-* [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
-* [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
-* [Objects & Classes](objects-classes/README.md) (draft stable)
-* [Types & Grammar](types-grammar/README.md) (draft in progress)
-* Sync & Async (not yet started)
-* ES.Next & Beyond (not yet started)
-
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+-   [Get Started](get-started/README.md) | [교보문고](https://product.kyobobook.co.kr/detail/S000046629130)
+-   [Scope & Closures](scope-closures/README.md) | [교보문고](https://product.kyobobook.co.kr/detail/S000046717188)
+-   [Objects & Classes](objects-classes/README.md) (안정적인 초고)
+-   [Types & Grammar](types-grammar/README.md) (진행중인 초고)
+-   Sync & Async (시작하지 않은 상태)
+-   ES.Next & Beyond (시작하지 않은 상태)
 
 ## Publishing
 
@@ -30,9 +30,9 @@ This edition of the books is being self-published through [GetiPub](https://geti
 
 If you'd like to contribute financially towards the effort (or any of my other OSS efforts) aside from purchasing the published books, please consider these options:
 
-* [Github Sponsorship](https://github.com/users/getify/sponsorship)
-* [Patreon](https://www.patreon.com/getify)
-* [Paypal](https://www.paypal.me/getify)
+-   [Github Sponsorship](https://github.com/users/getify/sponsorship)
+-   [Patreon](https://www.patreon.com/getify)
+-   [Paypal](https://www.paypal.me/getify)
 
 ## Contributions
 
@@ -56,7 +56,7 @@ Frontend Masters is the gold standard for top-of-the-line expert training materi
 
 I want to extend a warm and deep thanks to Marc Grabanski and the entire Frontend Masters team, not only for their excellent work with the video training platform, but for their unwavering support of me and of the "You Don't Know JS" books!
 
-----
+---
 
 ## License & Copyright
 
